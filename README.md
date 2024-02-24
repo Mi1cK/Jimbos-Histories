@@ -1,4 +1,5 @@
-![example]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?](https://github.com/Mi1cK/Balatro-Deck-Reviewer/blob/main/images/20240224153744_1.jpg)raw=true)
+![20240224153744_1](https://github.com/Mi1cK/Balatro-Deck-Reviewer/assets/161165747/1789b06a-a440-4970-bdf0-7cfca1572866)
+![20240224162348_1](https://github.com/Mi1cK/Balatro-Deck-Reviewer/assets/161165747/2884511c-537a-4eae-8c22-1a26e89762a2)
 
 # Balatro Deck Reviewer
 
