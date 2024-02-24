@@ -1,3 +1,5 @@
+![example]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?](https://github.com/Mi1cK/Balatro-Deck-Reviewer/blob/main/images/20240224153744_1.jpg)raw=true)
+
 # Balatro Deck Reviewer
 
 Mod for [Balatro](https://store.steampowered.com/app/2379780/Balatro/) to allow viewing of decks after a run has ended.
