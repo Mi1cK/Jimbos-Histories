@@ -1,4 +1,7 @@
 # Balatro Deck Reviewer
+![20240224153744_1](https://github.com/Mi1cK/Balatro-Deck-Reviewer/assets/161165747/846dccb5-ed4d-4bda-a739-346db9a574c8)
+![20240224162348_1](https://github.com/Mi1cK/Balatro-Deck-Reviewer/assets/161165747/a9dbb225-d13d-415d-9182-7018abfa4c1a)
+
 
 Mod for [Balatro](https://store.steampowered.com/app/2379780/Balatro/) to allow viewing of decks after a run has ended.
 
