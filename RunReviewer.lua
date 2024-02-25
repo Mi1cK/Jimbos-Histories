@@ -7,15 +7,6 @@
 ----------------------------------------------
 ------------MOD CODE -------------------------
 
-function SMODS.INIT.DebugMode()
-    _RELEASE_MODE = false
-end
-
-function SMODS.INIT.AchievementsEnabler()
-sendDebugMessage("AchievementsEnabler Activated!")
-G.F_NO_ACHIEVEMENTS = true
-end
-
 local function initializeModUIFunctions()
 G.FUNCS.overlay_menu({
   definition = review_deck(arg_736_0)
